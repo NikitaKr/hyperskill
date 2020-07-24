@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Game_of_Life.iml" filepath="$PROJECT_DIR$/.idea/modules/Game_of_Life.iml" group="Game_of_Life" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Game of Life/task/Game_of_Life-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Game of Life/task/Game_of_Life-task.iml" group="Game_of_Life/Game_of_Life-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Game of Life/task/Game_of_Life-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Game of Life/task/Game_of_Life-task_main.iml" group="Game_of_Life/Game_of_Life-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Game of Life/task/Game_of_Life-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Game of Life/task/Game_of_Life-task_test.iml" group="Game_of_Life/Game_of_Life-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Army/Problems-Army.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Army/Problems-Army.iml" group="Game_of_Life/Problems-Army" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Army/Problems-Army_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Army/Problems-Army_main.iml" group="Game_of_Life/Problems-Army" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Army/Problems-Army_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Army/Problems-Army_test.iml" group="Game_of_Life/Problems-Army" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Find the seed/Problems-Find_the_seed.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Find the seed/Problems-Find_the_seed.iml" group="Game_of_Life/Problems-Find_the_seed" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Find the seed/Problems-Find_the_seed_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Find the seed/Problems-Find_the_seed_main.iml" group="Game_of_Life/Problems-Find_the_seed" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Find the seed/Problems-Find_the_seed_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Find the seed/Problems-Find_the_seed_test.iml" group="Game_of_Life/Problems-Find_the_seed" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Preparing full name/Problems-Preparing_full_name.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Preparing full name/Problems-Preparing_full_name.iml" group="Game_of_Life/Problems-Preparing_full_name" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Preparing full name/Problems-Preparing_full_name_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Preparing full name/Problems-Preparing_full_name_main.iml" group="Game_of_Life/Problems-Preparing_full_name" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Preparing full name/Problems-Preparing_full_name_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Preparing full name/Problems-Preparing_full_name_test.iml" group="Game_of_Life/Problems-Preparing_full_name" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Game_of_Life/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Game_of_Life/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Game_of_Life/util" />
+    </modules>
+  </component>
+</project>
