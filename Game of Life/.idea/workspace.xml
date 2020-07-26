@@ -42,90 +42,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="168a504e-2a56-47a2-8d7b-d700af67710a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.1.1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_cedarsoftware_json_io_4_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_hyperskill_hs_test_v6_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_stefanbirkner_system_rules_1_19_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_codec_commons_codec_1_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_assertj_assertj_core_3_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_assertj_assertj_swing_3_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_assertj_assertj_swing_junit_3_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_easytesting_fest_reflect_1_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_easytesting_fest_util_1_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_3_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_3_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_3_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Game of Life/task/Game_of_Life-task.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Game of Life/task/Game_of_Life-task_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Game of Life/task/Game_of_Life-task_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Game_of_Life.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Army/Problems-Army.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Army/Problems-Army_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Army/Problems-Army_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Find the seed/Problems-Find_the_seed.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Find the seed/Problems-Find_the_seed_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Find the seed/Problems-Find_the_seed_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Preparing full name/Problems-Preparing_full_name.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Preparing full name/Problems-Preparing_full_name_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Preparing full name/Problems-Preparing_full_name_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/util/util.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Army/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Army/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Army/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Army/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Find the seed/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Find the seed/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Find the seed/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Find the seed/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Preparing full name/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Preparing full name/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Preparing full name/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Preparing full name/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/lesson-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/src/life/CurrentGen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/src/life/FutureGen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game of Life/Generations/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Game of Life/Generations/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game of Life/Let there be light/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Game of Life/Let there be light/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game of Life/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Game of Life/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game of Life/task/build/classes/java/test/GameOfLifeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Game of Life/task/build/classes/java/test/GameOfLifeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game of Life/task/build/reports/tests/test/classes/GameOfLifeTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/Game of Life/task/build/reports/tests/test/classes/GameOfLifeTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game of Life/task/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Game of Life/task/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game of Life/task/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/Game of Life/task/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game of Life/task/build/test-results/test/TEST-GameOfLifeTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Game of Life/task/build/test-results/test/TEST-GameOfLifeTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game of Life/task/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Game of Life/task/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game of Life/task/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/Game of Life/task/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game of Life/task/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Game of Life/task/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game of Life/task/out/production/classes/life/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Game of Life/task/out/production/classes/life/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game of Life/task/src/life/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Game of Life/task/src/life/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game of Life/task/test/GameOfLifeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Game of Life/task/test/GameOfLifeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,6 +86,13 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -147,7 +100,9 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1f0ZZr6s5Qmbu8vINYeqhdWvoeW" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -227,22 +182,22 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="726" y="258" width="647" height="494" key="#xdebugger.XInspectDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1595573677417" />
-    <state width="818" height="173" key="GridCell.Tab.0.bottom" timestamp="1595583225266">
+    <state width="818" height="173" key="GridCell.Tab.0.bottom" timestamp="1595583365007">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="818" height="173" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1595583225266" />
-    <state width="818" height="173" key="GridCell.Tab.0.center" timestamp="1595583225266">
+    <state width="818" height="173" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1595583365007" />
+    <state width="818" height="173" key="GridCell.Tab.0.center" timestamp="1595583365007">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="818" height="173" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1595583225266" />
-    <state width="818" height="173" key="GridCell.Tab.0.left" timestamp="1595583225265">
+    <state width="818" height="173" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1595583365007" />
+    <state width="818" height="173" key="GridCell.Tab.0.left" timestamp="1595583365007">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="818" height="173" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1595583225265" />
-    <state width="818" height="173" key="GridCell.Tab.0.right" timestamp="1595583225266">
+    <state width="818" height="173" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1595583365007" />
+    <state width="818" height="173" key="GridCell.Tab.0.right" timestamp="1595583365007">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="818" height="173" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1595583225266" />
+    <state width="818" height="173" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1595583365007" />
     <state width="818" height="335" key="GridCell.Tab.1.bottom" timestamp="1595582434298">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
