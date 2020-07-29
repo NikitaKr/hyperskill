@@ -9,7 +9,6 @@ public class CurrentGen {
         matrixCurrentGen = new String[n][n];
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
-
                 if (Main.random.nextBoolean() == true) {
                     matrixCurrentGen[i][j] = "O";
                 } else {

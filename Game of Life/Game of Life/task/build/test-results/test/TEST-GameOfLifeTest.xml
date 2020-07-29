@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="GameOfLifeTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2020-07-26T12:21:44" hostname="DESKTOP-75SNRE5" time="0.114">
+<testsuite name="GameOfLifeTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2020-07-29T05:53:55" hostname="DESKTOP-75SNRE5" time="0.483">
   <properties/>
-  <testcase name="start" classname="GameOfLifeTest" time="0.114">
-    <failure message="java.lang.AssertionError: Wrong answer in test #2&#10;&#10;Please find below the output of your program during this failed test.&#10;Note that the '&gt;' character indicates the beginning of the input line.&#10;&#10;---&#10;&#10;&gt;8 1 10&#10;O      O&#10;OO  O OO&#10;OOO  O  &#10;  OO OOO&#10;O  O O O&#10;O O  OO &#10;OO    OO&#10;OO  O" type="java.lang.AssertionError">java.lang.AssertionError: Wrong answer in test #2
+  <testcase name="start" classname="GameOfLifeTest" time="0.483">
+    <failure message="java.lang.AssertionError: Wrong answer in test #2&#10;&#10;Please find below the output of your program during this failed test.&#10;Note that the '&gt;' character indicates the beginning of the input line.&#10;&#10;---&#10;&#10;&gt;8 1 10&#10;O      O&#10;OO  O OO&#10;OOO  O  &#10;  OO OOO&#10;O  O O O&#10;O O  OO &#10;OO    OO&#10;OO  O   &#10;        &#10;        &#10;   OO   &#10;        &#10; OO     &#10;        &#10;     O  &#10;        &#10; O    O &#10;O    O  &#10; O OO   &#10;O O  OOO&#10;OO     O&#10;    O OO&#10;O O O   &#10;   OO O &#10;     O  &#10;        &#10;O    OOO&#10;        &#10;     O  &#10; O      &#10;       O&#10;     O  &#10;    OOO &#10;OOOOO   &#10; OO  OOO&#10;OOO   O &#10; OO  OO &#10;OOO O O &#10; OOOOO O&#10;OO    OO&#10;  OO    &#10;       O&#10;        &#10;        &#10;   O    &#10;       O&#10;        &#10;  OO    &#10;  OO    &#10;OO  O O &#10; OO   OO&#10;OO O O O&#10;OOOO    &#10;O O  OO &#10; OOO OOO&#10;OOO OO O&#10;    OO O&#10;   O   O&#10;     O  &#10;      O &#10;    O O &#10;    O   &#10;        &#10;        &#10; OOO OO &#10; O O   O&#10;    OOOO&#10;OOOOOOO &#10; OOO OO &#10;OOOO  O &#10;   O  OO&#10;O  OOO  &#10;O       &#10;O       &#10; O      &#10;        &#10;        &#10;    OO  &#10;OO   O  &#10;       O&#10; OOO    &#10;OO  OO O&#10;OO      &#10;  OOO O &#10; OOOOOOO&#10;   O O O&#10;O OOO   &#10;O O O  O&#10;    O  O&#10;        &#10;  OOOO O&#10;O      O&#10;        &#10;OO      &#10; O     O&#10;        &#10; O  O O &#10;O    OO &#10; O O    &#10;O O    O&#10;  O   OO&#10; O  OO  &#10; OO     &#10;  OOO OO&#10;   O    &#10;        &#10;O      O&#10; O      &#10;OO      &#10;  O     &#10;    OO  &#10; O   O  &#10;    OOOO&#10;OO  OOOO&#10;    O  O&#10;OO OO   &#10;   OO OO&#10; OOO OO &#10; O      &#10;  OOO  O&#10;        &#10;        &#10; O O  O &#10;     O O&#10;OO      &#10;    O   &#10;    O   &#10;     OO &#10;   OOO  &#10;O O     &#10;OO  OO  &#10;OOOOO   &#10;OOOO OOO&#10; OO O O &#10;   OO OO&#10;  OO OOO&#10;  O   O &#10; O O O  &#10;        &#10;      O &#10;        &#10;        &#10;        &#10;        &#10;OO   O O&#10;  OO OO &#10;O OO O O&#10;   OO O &#10; OOO   O&#10;OO O O O&#10;   OOOO &#10;OO    OO&#10;  O     &#10;        &#10;        &#10;OO     O&#10;      O &#10;        &#10; OO     &#10;    O" type="java.lang.AssertionError">java.lang.AssertionError: Wrong answer in test #2
 
 Please find below the output of your program during this failed test.
 Note that the '&gt;' character indicates the beginning of the input line.
@@ -17,7 +17,159 @@ OOO  O
 O  O O O
 O O  OO 
 OO    OO
-OO  O
+OO  O   
+        
+        
+   OO   
+        
+ OO     
+        
+     O  
+        
+ O    O 
+O    O  
+ O OO   
+O O  OOO
+OO     O
+    O OO
+O O O   
+   OO O 
+     O  
+        
+O    OOO
+        
+     O  
+ O      
+       O
+     O  
+    OOO 
+OOOOO   
+ OO  OOO
+OOO   O 
+ OO  OO 
+OOO O O 
+ OOOOO O
+OO    OO
+  OO    
+       O
+        
+        
+   O    
+       O
+        
+  OO    
+  OO    
+OO  O O 
+ OO   OO
+OO O O O
+OOOO    
+O O  OO 
+ OOO OOO
+OOO OO O
+    OO O
+   O   O
+     O  
+      O 
+    O O 
+    O   
+        
+        
+ OOO OO 
+ O O   O
+    OOOO
+OOOOOOO 
+ OOO OO 
+OOOO  O 
+   O  OO
+O  OOO  
+O       
+O       
+ O      
+        
+        
+    OO  
+OO   O  
+       O
+ OOO    
+OO  OO O
+OO      
+  OOO O 
+ OOOOOOO
+   O O O
+O OOO   
+O O O  O
+    O  O
+        
+  OOOO O
+O      O
+        
+OO      
+ O     O
+        
+ O  O O 
+O    OO 
+ O O    
+O O    O
+  O   OO
+ O  OO  
+ OO     
+  OOO OO
+   O    
+        
+O      O
+ O      
+OO      
+  O     
+    OO  
+ O   O  
+    OOOO
+OO  OOOO
+    O  O
+OO OO   
+   OO OO
+ OOO OO 
+ O      
+  OOO  O
+        
+        
+ O O  O 
+     O O
+OO      
+    O   
+    O   
+     OO 
+   OOO  
+O O     
+OO  OO  
+OOOOO   
+OOOO OOO
+ OO O O 
+   OO OO
+  OO OOO
+  O   O 
+ O O O  
+        
+      O 
+        
+        
+        
+        
+OO   O O
+  OO OO 
+O OO O O
+   OO O 
+ OOO   O
+OO O O O
+   OOOO 
+OO    OO
+  O     
+        
+        
+OO     O
+      O 
+        
+ OO     
+    O
 	at org.junit.Assert.fail(Assert.java:88)
 	at org.hyperskill.hstest.v6.stage.BaseStageTest.start(BaseStageTest.java:172)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
@@ -88,6 +240,158 @@ O  O O O
 O O  OO 
 OO    OO
 OO  O   
+        
+        
+   OO   
+        
+ OO     
+        
+     O  
+        
+ O    O 
+O    O  
+ O OO   
+O O  OOO
+OO     O
+    O OO
+O O O   
+   OO O 
+     O  
+        
+O    OOO
+        
+     O  
+ O      
+       O
+     O  
+    OOO 
+OOOOO   
+ OO  OOO
+OOO   O 
+ OO  OO 
+OOO O O 
+ OOOOO O
+OO    OO
+  OO    
+       O
+        
+        
+   O    
+       O
+        
+  OO    
+  OO    
+OO  O O 
+ OO   OO
+OO O O O
+OOOO    
+O O  OO 
+ OOO OOO
+OOO OO O
+    OO O
+   O   O
+     O  
+      O 
+    O O 
+    O   
+        
+        
+ OOO OO 
+ O O   O
+    OOOO
+OOOOOOO 
+ OOO OO 
+OOOO  O 
+   O  OO
+O  OOO  
+O       
+O       
+ O      
+        
+        
+    OO  
+OO   O  
+       O
+ OOO    
+OO  OO O
+OO      
+  OOO O 
+ OOOOOOO
+   O O O
+O OOO   
+O O O  O
+    O  O
+        
+  OOOO O
+O      O
+        
+OO      
+ O     O
+        
+ O  O O 
+O    OO 
+ O O    
+O O    O
+  O   OO
+ O  OO  
+ OO     
+  OOO OO
+   O    
+        
+O      O
+ O      
+OO      
+  O     
+    OO  
+ O   O  
+    OOOO
+OO  OOOO
+    O  O
+OO OO   
+   OO OO
+ OOO OO 
+ O      
+  OOO  O
+        
+        
+ O O  O 
+     O O
+OO      
+    O   
+    O   
+     OO 
+   OOO  
+O O     
+OO  OO  
+OOOOO   
+OOOO OOO
+ OO O O 
+   OO OO
+  OO OOO
+  O   O 
+ O O O  
+        
+      O 
+        
+        
+        
+        
+OO   O O
+  OO OO 
+O OO O O
+   OO O 
+ OOO   O
+OO O O O
+   OOOO 
+OO    OO
+  O     
+        
+        
+OO     O
+      O 
+        
+ OO     
+    O   
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
