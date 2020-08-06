@@ -29,7 +29,7 @@
 </td>
 <td>
 <div class="infoBox" id="failures">
-<div class="counter">1</div>
+<div class="counter">0</div>
 <p>failures</p>
 </div>
 </td>
@@ -41,7 +41,7 @@
 </td>
 <td>
 <div class="infoBox" id="duration">
-<div class="counter">0.483s</div>
+<div class="counter">1.555s</div>
 <p>duration</p>
 </div>
 </td>
@@ -50,8 +50,8 @@
 </div>
 </td>
 <td>
-<div class="infoBox failures" id="successRate">
-<div class="percent">0%</div>
+<div class="infoBox success" id="successRate">
+<div class="percent">100%</div>
 <p>successful</p>
 </div>
 </td>
@@ -61,244 +61,13 @@
 <div id="tabs">
 <ul class="tabLinks">
 <li>
-<a href="#tab0">Failed tests</a>
+<a href="#tab0">Tests</a>
 </li>
 <li>
-<a href="#tab1">Tests</a>
-</li>
-<li>
-<a href="#tab2">Standard output</a>
+<a href="#tab1">Standard output</a>
 </li>
 </ul>
 <div id="tab0" class="tab">
-<h2>Failed tests</h2>
-<div class="test">
-<a name="start"></a>
-<h3 class="failures">start</h3>
-<span class="code">
-<pre>java.lang.AssertionError: Wrong answer in test #2
-
-Please find below the output of your program during this failed test.
-Note that the '&gt;' character indicates the beginning of the input line.
-
----
-
-&gt;8 1 10
-O      O
-OO  O OO
-OOO  O  
-  OO OOO
-O  O O O
-O O  OO 
-OO    OO
-OO  O   
-        
-        
-   OO   
-        
- OO     
-        
-     O  
-        
- O    O 
-O    O  
- O OO   
-O O  OOO
-OO     O
-    O OO
-O O O   
-   OO O 
-     O  
-        
-O    OOO
-        
-     O  
- O      
-       O
-     O  
-    OOO 
-OOOOO   
- OO  OOO
-OOO   O 
- OO  OO 
-OOO O O 
- OOOOO O
-OO    OO
-  OO    
-       O
-        
-        
-   O    
-       O
-        
-  OO    
-  OO    
-OO  O O 
- OO   OO
-OO O O O
-OOOO    
-O O  OO 
- OOO OOO
-OOO OO O
-    OO O
-   O   O
-     O  
-      O 
-    O O 
-    O   
-        
-        
- OOO OO 
- O O   O
-    OOOO
-OOOOOOO 
- OOO OO 
-OOOO  O 
-   O  OO
-O  OOO  
-O       
-O       
- O      
-        
-        
-    OO  
-OO   O  
-       O
- OOO    
-OO  OO O
-OO      
-  OOO O 
- OOOOOOO
-   O O O
-O OOO   
-O O O  O
-    O  O
-        
-  OOOO O
-O      O
-        
-OO      
- O     O
-        
- O  O O 
-O    OO 
- O O    
-O O    O
-  O   OO
- O  OO  
- OO     
-  OOO OO
-   O    
-        
-O      O
- O      
-OO      
-  O     
-    OO  
- O   O  
-    OOOO
-OO  OOOO
-    O  O
-OO OO   
-   OO OO
- OOO OO 
- O      
-  OOO  O
-        
-        
- O O  O 
-     O O
-OO      
-    O   
-    O   
-     OO 
-   OOO  
-O O     
-OO  OO  
-OOOOO   
-OOOO OOO
- OO O O 
-   OO OO
-  OO OOO
-  O   O 
- O O O  
-        
-      O 
-        
-        
-        
-        
-OO   O O
-  OO OO 
-O OO O O
-   OO O 
- OOO   O
-OO O O O
-   OOOO 
-OO    OO
-  O     
-        
-        
-OO     O
-      O 
-        
- OO     
-    O
-	at org.junit.Assert.fail(Assert.java:88)
-	at org.hyperskill.hstest.v6.stage.BaseStageTest.start(BaseStageTest.java:172)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
-	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
-	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
-	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
-	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
-	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
-	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
-	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
-	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
-	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
-	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
-	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
-	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
-	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
-	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
-	at org.gradle.api.internal.tasks.testing.junit.JUnitTestClassExecutor.runTestClass(JUnitTestClassExecutor.java:110)
-	at org.gradle.api.internal.tasks.testing.junit.JUnitTestClassExecutor.execute(JUnitTestClassExecutor.java:58)
-	at org.gradle.api.internal.tasks.testing.junit.JUnitTestClassExecutor.execute(JUnitTestClassExecutor.java:38)
-	at org.gradle.api.internal.tasks.testing.junit.AbstractJUnitTestClassProcessor.processTestClass(AbstractJUnitTestClassProcessor.java:62)
-	at org.gradle.api.internal.tasks.testing.SuiteTestClassProcessor.processTestClass(SuiteTestClassProcessor.java:51)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
-	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:35)
-	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
-	at org.gradle.internal.dispatch.ContextClassLoaderDispatch.dispatch(ContextClassLoaderDispatch.java:32)
-	at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:93)
-	at com.sun.proxy.$Proxy2.processTestClass(Unknown Source)
-	at org.gradle.api.internal.tasks.testing.worker.TestWorker.processTestClass(TestWorker.java:118)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
-	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:35)
-	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
-	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:175)
-	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:157)
-	at org.gradle.internal.remote.internal.hub.MessageHub$Handler.run(MessageHub.java:404)
-	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:63)
-	at org.gradle.internal.concurrent.ManagedExecutorImpl$1.run(ManagedExecutorImpl.java:46)
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
-	at org.gradle.internal.concurrent.ThreadFactoryImpl$ManagedThreadRunnable.run(ThreadFactoryImpl.java:55)
-	at java.base/java.lang.Thread.run(Thread.java:834)
-</pre>
-</span>
-</div>
-</div>
-<div id="tab1" class="tab">
 <h2>Tests</h2>
 <table>
 <thead>
@@ -309,13 +78,13 @@ OO     O
 </tr>
 </thead>
 <tr>
-<td class="failures">start</td>
-<td class="failures">0.483s</td>
-<td class="failures">failed</td>
+<td class="success">start</td>
+<td class="success">1.555s</td>
+<td class="success">passed</td>
 </tr>
 </table>
 </div>
-<div id="tab2" class="tab">
+<div id="tab1" class="tab">
 <h2>Standard output</h2>
 <span class="code">
 <pre>?[1;31m
@@ -328,166 +97,136 @@ OOO
 ?[1;31m
 Start test 2?[0m
 &gt;8 1 10
-O      O
-OO  O OO
-OOO  O  
-  OO OOO
-O  O O O
-O O  OO 
-OO    OO
-OO  O   
-        
-        
-   OO   
-        
- OO     
-        
-     O  
-        
- O    O 
-O    O  
- O OO   
-O O  OOO
-OO     O
-    O OO
-O O O   
-   OO O 
-     O  
-        
-O    OOO
-        
-     O  
- O      
-       O
-     O  
-    OOO 
-OOOOO   
- OO  OOO
-OOO   O 
- OO  OO 
-OOO O O 
- OOOOO O
-OO    OO
-  OO    
-       O
-        
-        
-   O    
-       O
-        
-  OO    
-  OO    
-OO  O O 
- OO   OO
-OO O O O
-OOOO    
-O O  OO 
- OOO OOO
-OOO OO O
-    OO O
-   O   O
-     O  
-      O 
-    O O 
-    O   
-        
-        
- OOO OO 
- O O   O
-    OOOO
-OOOOOOO 
- OOO OO 
-OOOO  O 
-   O  OO
-O  OOO  
-O       
-O       
- O      
-        
-        
-    OO  
-OO   O  
-       O
- OOO    
-OO  OO O
-OO      
-  OOO O 
- OOOOOOO
-   O O O
-O OOO   
-O O O  O
-    O  O
-        
-  OOOO O
-O      O
-        
-OO      
- O     O
-        
- O  O O 
-O    OO 
- O O    
-O O    O
-  O   OO
  O  OO  
- OO     
-  OOO OO
-   O    
+OO   OO 
+O     O 
         
-O      O
- O      
-OO      
   O     
-    OO  
- O   O  
-    OOOO
-OO  OOOO
-    O  O
-OO OO   
-   OO OO
- OOO OO 
- O      
-  OOO  O
-        
-        
- O O  O 
-     O O
-OO      
-    O   
-    O   
+  O O   
      OO 
-   OOO  
-O O     
-OO  OO  
-OOOOO   
-OOOO OOO
- OO O O 
-   OO OO
-  OO OOO
-  O   O 
- O O O  
-        
-      O 
-        
-        
-        
-        
-OO   O O
-  OO OO 
-O OO O O
-   OO O 
- OOO   O
-OO O O O
-   OOOO 
-OO    OO
-  O     
-        
-        
-OO     O
-      O 
-        
- OO     
-    O   
+O   OO O
+?[1;31m
+Start test 3?[0m
+&gt;10 10 100
+          
+          
+    O     
+   O O    
+    O     
+          
+          
+          
+          
+          
+?[1;31m
+Start test 4?[0m
+&gt;4 4 10
+    
+    
+    
+    
+?[1;31m
+Start test 5?[0m
+&gt;32 -1 0
+   OOO  O O    OOOOOO O O     OO
+   OO O    OO  O  O   O    O  OO
+ O OOO OOO  OO  OO  O O  OO  O  
+ O O O O    O     OO O    OO OOO
+ O O O    O OOOOO OOOOOOOOO O OO
+O OOOO  O OOO OOOO O  O   OOO O 
+O  OO  O  O     O O OOOOOOOOO O 
+     OO OO  O OOO   OOOOO OOOOOO
+  O OO        O O    O     OOOO 
+OOOO  OO  OO    O O   OO OOOO  O
+   O         O   O   OOOOOO    O
+   OOOOO   OOOOOOO  O O  O OO O 
+ O O  OOO O O O  OO OO   OO    O
+O    O OOOOO O    OO  OO O  OOO 
+ OOOOO   O O      O  O  O  OOOOO
+OOO O  OOOO OOO OO  O OO    OO  
+  OOO  OO  OO  O OOO     O O  OO
+OOO  OOOOOOO OOO  OO  O  O   OO 
+OO O O    OOO    O O  O OOOO O  
+O O   OO  O     O  O O  O O O   
+OOO       OOOO OOO O    OOOO  OO
+O  OO  OOO     OOOO  O    O  O O
+  O OO  O OO  OOOOO  O   O OOO  
+O    OO O   O   OO O   O O OOOO 
+ O OOO O OOOOOO O   O O  O  OOO 
+ OO OOO  O O O  OO OOOOOOOOO  O 
+ OOO OO  OO O O   OO  OOOO OOO  
+ O O O  O OOO O  OO OO   O    OO
+OO O O OOO OO O     OO  O  O O  
+ O O O O OO     OOOOO O   O  OOO
+OOOOO     OO   O    O    OO    O
+ OOO OO  O   O OO  OO   OO   O  
+?[1;31m
+Start test 6?[0m
+&gt;64 0 512
+                                                        OO      
+                          OO                           O  O   O 
+                         O  O                           OO    O 
+                          O O                                 O 
+             OO            O                                    
+             O O                           O                    
+              O                            O                    
+                                           O                    
+                 OO                                             
+                 OO                    OOO                      
+                                                                
+       OO                                  O                    
+       OO                                  O                    
+                                           O                    
+                                                                
+                                                                
+                                                OO              
+                 O                              OO          O   
+                 O                                         O O  
+                 O                                         O  O 
+                                                            OO  
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                      OO                        
+                                     O  O                       
+                                      O O                       
+                                       O                        
+                                                                
+                                                                
+                              O                                 
+                             O O                                
+                             OO                                 
+     OOO          O                                             
+                  O                    OO                       
+                  O                    OO                       
+                                                                
+                                                                
+                                                                
+                                                     O          
+      OO                                            O O         
+      OO                     OO                     O O         
+                            O  O                     O          
+                             OO                                 
+          OO                                                    
+          OO                                                    
+                                                                
+                                            O                   
+                                  OO        O                   
+                                  OO    O   O                   
+                       OO               O                       
+                       OO               O                       
+                                                                
+                                                       OO       
+                                                O      OO       
+                                               O O              
+                                               O O              
+       OO                                       O               
+       OO                                                       
+                                                                
+                                                                
 </pre>
 </span>
 </div>
@@ -499,7 +238,7 @@ OO     O
 <input id="line-wrapping-toggle" type="checkbox" autocomplete="off"/>
 </label>
 </div>Generated by 
-<a href="http://www.gradle.org">Gradle 5.3.1</a> at Jul 29, 2020, 8:53:56 AM</p>
+<a href="http://www.gradle.org">Gradle 5.3.1</a> at Aug 6, 2020, 2:28:27 PM</p>
 </div>
 </div>
 </body>

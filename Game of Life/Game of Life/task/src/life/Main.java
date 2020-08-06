@@ -5,21 +5,23 @@ import java.util.Scanner;
 
 public class Main {
 
-    public static Random random;
-    static int n;
-    static int m;
-    private static int counter = 0;
-
+    protected static int n;
+    protected static int s;
+    protected static int m;
+    protected static int counter = 1;
+    protected static Random random;
 
     public static void main(String[] args) {
         begin();
         lifeCycle(m);
+
     }
 
     public static void begin() {
+
         Scanner scanner = new Scanner(System.in);
         n = scanner.nextInt();
-        int s = scanner.nextInt();
+        s = scanner.nextInt();
         m = scanner.nextInt();
         random = new Random(s);
     }
@@ -27,24 +29,46 @@ public class Main {
     public static void lifeCycle(int m) {
 
         if (m == 0) {
-            new CurrentGen(n);
-        } else {
+            CurrentGen currentGen = new CurrentGen();
+            currentGen.currentMatrixGenerator(n);
+            currentGen.printCurrentGen(n);
+        }
+        if (m == 1) {
+            CurrentGen currentGen = new CurrentGen();
+            currentGen.currentMatrixGenerator(n);
 
-            while (m > counter) {
+            FutureGen futureGen = new FutureGen();
+            futureGen.futureMatrixGenerator(n);
+            futureGen.printFutureMatrix(n);
+        }
+        if (m > 1) {
 
-                new CurrentGen(n);
-                FutureGen FutureGen = new FutureGen(n);
-                FutureGen.futureMatrixGenerator(n);
-                FutureGen.printFutureMatrix(n);
+            CurrentGen currentGen = new CurrentGen();
+            currentGen.currentMatrixGenerator(n);
+            FutureGen futureGen = new FutureGen();
+            futureGen.futureMatrixGenerator(n);
+
+
+            for (int e = 2; e < m + 1; e++) {
                 for (int i = 0; i < n; i++) {
                     for (int j = 0; j < n; j++) {
-                        FutureGen.matrixFutureGen[i][j] = CurrentGen.matrixCurrentGen[i][j];
+                        CurrentGen.matrixCurrentGen[i][j] = FutureGen.matrixFutureGen[i][j];
                     }
                 }
-                counter++;
+                futureGen.futureMatrixGenerator(n);
 
+                counter++;
             }
+            futureGen.printFutureMatrix(n);
+
+
         }
 
+
     }
+
+
 }
+
+
+

@@ -242,6 +242,118 @@ files:
         fun Char.isAlive(): Boolean = this != ' '
     }
   learner_created: false
+- name: src/life/CurrentGen.java
+  visible: true
+  text: |
+    package life;
+
+    public class CurrentGen {
+
+        static String[][] matrixCurrentGen;
+
+        public CurrentGen() {
+
+        }
+
+        public void currentMatrixGenerator(int n) {
+
+            matrixCurrentGen = new String[Main.n][Main.n];
+
+            for (int i = 0; i < n; i++) {
+                for (int j = 0; j < n; j++) {
+                    if (Main.random.nextBoolean()) {
+                        matrixCurrentGen[i][j] = "O";
+                    } else {
+                        matrixCurrentGen[i][j] = " ";
+                    }
+                }
+
+            }
+        }
+
+        public void printCurrentGen(int n) {
+            for (int i = 0; i < n; i++) {
+                for (int j = 0; j < n; j++) {
+                    System.out.print(matrixCurrentGen[i][j]);
+                }
+                System.out.println();
+            }
+        }
+
+    }
+  learner_created: true
+- name: src/life/FutureGen.java
+  visible: true
+  text: |
+    package life;
+
+    import static life.CurrentGen.matrixCurrentGen;
+
+    public class FutureGen {
+
+        static String[][] matrixFutureGen;
+        int neighborsCounter = 0;
+
+        public FutureGen() {
+
+        }
+
+        public void futureMatrixGenerator(int n) {
+
+            matrixFutureGen = new String[Main.n][Main.n];
+
+            for (int i = 0; i < n; i++) {
+                for (int j = 0; j < n; j++) {
+                    for (int k = -1; k < 2; k++) {
+                        for (int l = -1; l < 2; l++) {
+                            int rows = (i + k + n) % n;
+                            int cols = (j + l + n) % n;
+
+                            if (matrixCurrentGen[rows][cols].equals("O")) {
+                                if (cols != j || rows != i) {
+                                    neighborsCounter++;
+                                }
+                            }
+                        }
+                    }
+
+                    //rules
+                    //Birth
+                    if (matrixCurrentGen[i][j].equals(" ") && neighborsCounter == 3) {
+                        matrixFutureGen[i][j] = "O";
+                    }
+                    //Death
+                    if (matrixCurrentGen[i][j].equals("O") && (neighborsCounter == 3 || neighborsCounter == 2)) {
+                        matrixFutureGen[i][j] = "O";
+                    }
+                    if (matrixCurrentGen[i][j] == "O" && (neighborsCounter < 2 || neighborsCounter > 3)) {
+                        matrixFutureGen[i][j] = " ";
+                    }
+                    if (matrixCurrentGen[i][j].equals(" ") && neighborsCounter != 3) {
+                        matrixFutureGen[i][j] = " ";
+                    }
+
+                    neighborsCounter = 0;
+
+
+                }
+            }
+
+        }
+
+        public void printFutureMatrix(int n) {
+            for (int i = 0; i < n; i++) {
+                for (int j = 0; j < n; j++) {
+                    System.out.print(matrixFutureGen[i][j]);
+                }
+                System.out.println();
+            }
+
+
+        }
+
+    }
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/54/stages/296/implement
 status: Unchecked
-record: -1
+record: 2

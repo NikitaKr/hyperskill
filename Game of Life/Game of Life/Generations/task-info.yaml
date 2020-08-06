@@ -185,31 +185,9 @@ files:
   visible: true
   learner_created: true
 feedback_link: https://hyperskill.org/projects/54/stages/295/implement
-status: Failed
+status: Solved
 feedback:
-  message: "Wrong answer in test #2\n\nPlease find below the output of your program\
-    \ during this failed test.\nNote that the &#39;&gt;&#39; character indicates the\
-    \ beginning of the input line.\n\n---\n\n&gt;8 1 10\nO      O\nOO  O OO\nOOO \
-    \ O  \n  OO OOO\nO  O O O\nO O  OO \nOO    OO\nOO  O   \n        \n        \n\
-    \   OO   \n        \n OO     \n        \n     O  \n        \n O    O \nO    O\
-    \  \n O OO   \nO O  OOO\nOO     O\n    O OO\nO O O   \n   OO O \n     O  \n  \
-    \      \nO    OOO\n        \n     O  \n O      \n       O\n     O  \n    OOO \n\
-    OOOOO   \n OO  OOO\nOOO   O \n OO  OO \nOOO O O \n OOOOO O\nOO    OO\n  OO   \
-    \ \n       O\n        \n        \n   O    \n       O\n        \n  OO    \n  OO\
-    \    \nOO  O O \n OO   OO\nOO O O O\nOOOO    \nO O  OO \n OOO OOO\nOOO OO O\n\
-    \    OO O\n   O   O\n     O  \n      O \n    O O \n    O   \n        \n      \
-    \  \n OOO OO \n O O   O\n    OOOO\nOOOOOOO \n OOO OO \nOOOO  O \n   O  OO\nO \
-    \ OOO  \nO       \nO       \n O      \n        \n        \n    OO  \nOO   O  \n\
-    \       O\n OOO    \nOO  OO O\nOO      \n  OOO O \n OOOOOOO\n   O O O\nO OOO \
-    \  \nO O O  O\n    O  O\n        \n  OOOO O\nO      O\n        \nOO      \n O\
-    \     O\n        \n O  O O \nO    OO \n O O    \nO O    O\n  O   OO\n O  OO  \n\
-    \ OO     \n  OOO OO\n   O    \n        \nO      O\n O      \nOO      \n  O   \
-    \  \n    OO  \n O   O  \n    OOOO\nOO  OOOO\n    O  O\nOO OO   \n   OO OO\n OOO\
-    \ OO \n O      \n  OOO  O\n        \n        \n O O  O \n     O O\nOO      \n\
-    \    O   \n    O   \n     OO \n   OOO  \nO O     \nOO  OO  \nOOOOO   \nOOOO OOO\n\
-    \ OO O O \n   OO OO\n  OO OOO\n  O   O \n O O O  \n        \n      O \n      \
-    \  \n        \n        \n        \nOO   O O\n  OO OO \nO OO O O\n   OO O \n OOO\
-    \   O\nOO O O O\n   OOOO \nOO    OO\n  O     \n        \n        \nOO     O\n\
-    \      O \n        \n OO     \n    O"
-  time: Wed, 29 Jul 2020 05:53:57 UTC
-record: -1
+  message: Congratulations! Continue on <a href="https://hyperskill.org/projects/54/stages/295/implement">JetBrains
+    Academy</a>
+  time: Thu, 06 Aug 2020 11:28:27 UTC
+record: 1
