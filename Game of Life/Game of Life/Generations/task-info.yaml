@@ -185,11 +185,9 @@ files:
   visible: true
   learner_created: true
 feedback_link: https://hyperskill.org/projects/54/stages/295/implement
-status: Failed
+status: Solved
 feedback:
-  message: "Wrong answer in test #2\n\nPlease find below the output of your program\
-    \ during this failed test.\nNote that the &#39;&gt;&#39; character indicates the\
-    \ beginning of the input line.\n\n---\n\n&gt;8 1 10\nO      O\nOO  O OO\nOOO \
-    \ O  \n  OO OOO\nO  O O O\nO O  OO \nOO    OO\nOO  O"
-  time: Sun, 26 Jul 2020 12:21:44 UTC
-record: -1
+  message: Congratulations! Continue on <a href="https://hyperskill.org/projects/54/stages/295/implement">JetBrains
+    Academy</a>
+  time: Thu, 06 Aug 2020 11:28:27 UTC
+record: 1
