@@ -355,5 +355,19 @@ files:
     }
   learner_created: true
 feedback_link: https://hyperskill.org/projects/54/stages/296/implement
-status: Unchecked
+status: Failed
+feedback:
+  message: "Wrong answer in test #1\n\nWrong evolution from #1 to #2\n\nPlease find\
+    \ below the output of your program during this failed test.\nNote that the &#39;&gt;&#39;\
+    \ character indicates the beginning of the input line.\n\n---\n\n&gt;5\nGeneration\
+    \ #1\nAlive: 11\n    O\nO  OO\n O  O\nOO OO\nO    \nGeneration #2\nAlive: 8\n\
+    \   O \nOO   \n    O\nO   O\nO  O \nGeneration #3\nAlive: 11\nOOO  \nO   O\n O\
+    \  O\nO  O \nO  O \nGeneration #4\nAlive: 13\n  OO \n  OOO\n O O \nOOOO \nO  O\
+    \ \nGeneration #5\nAlive: 6\n O   \n O  O\n     \nO  O \nO    \nGeneration #6\n\
+    Alive: 8\n O   \nO    \nO   O\n    O\nOO  O\nGeneration #7\nAlive: 11\n O  O\n\
+    OO  O\nO   O\n O O \n O  O\nGeneration #8\nAlive: 14\n OOOO\n O O \n  OO \n OOO\
+    \ \n O OO\nGeneration #9\nAlive: 6\n O   \nOO   \n    O\nOO   \n     \nGeneration\
+    \ #10\nAlive: 8\nOO   \nOO   \n    O\nO    \nOO   \nGeneration #11\nAlive: 10\n\
+    \  O O\n O  O\n O  O\nOO  O\n    O"
+  time: Fri, 21 Aug 2020 12:47:04 UTC
 record: 2

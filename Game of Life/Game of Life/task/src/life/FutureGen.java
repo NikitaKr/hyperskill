@@ -6,22 +6,20 @@ public class FutureGen {
 
     static String[][] matrixFutureGen;
     int neighborsCounter = 0;
+    int aliveNumber = 0;
 
     public FutureGen() {
-
     }
 
     public void futureMatrixGenerator(int n) {
-
         matrixFutureGen = new String[Main.n][Main.n];
-
+        aliveNumber = 0;
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
                 for (int k = -1; k < 2; k++) {
                     for (int l = -1; l < 2; l++) {
                         int rows = (i + k + n) % n;
                         int cols = (j + l + n) % n;
-
                         if (matrixCurrentGen[rows][cols].equals("O")) {
                             if (cols != j || rows != i) {
                                 neighborsCounter++;
@@ -45,24 +43,26 @@ public class FutureGen {
                 if (matrixCurrentGen[i][j].equals(" ") && neighborsCounter != 3) {
                     matrixFutureGen[i][j] = " ";
                 }
-
                 neighborsCounter = 0;
-
-
             }
         }
 
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                if(matrixFutureGen[i][j] == "O") {
+                    aliveNumber++;
+                }
+            }
+        }
     }
 
     public void printFutureMatrix(int n) {
+
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
                 System.out.print(matrixFutureGen[i][j]);
             }
             System.out.println();
         }
-
-
     }
-
 }

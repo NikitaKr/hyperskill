@@ -4,26 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
+    <expand />
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:WhyItIsNotWorking!" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
@@ -59,46 +44,230 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="168a504e-2a56-47a2-8d7b-d700af67710a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Game of Life/task/Game_of_Life.Game_of_Life-task.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Game of Life/task/Game_of_Life.Game_of_Life-task.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Game of Life/task/Game_of_Life.Game_of_Life-task.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Army/Game_of_Life.Problems-Army.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Army/Game_of_Life.Problems-Army.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Army/Game_of_Life.Problems-Army.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Find the seed/Game_of_Life.Problems-Find_the_seed.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Find the seed/Game_of_Life.Problems-Find_the_seed.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Find the seed/Game_of_Life.Problems-Find_the_seed.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Preparing full name/Game_of_Life.Problems-Preparing_full_name.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Preparing full name/Game_of_Life.Problems-Preparing_full_name.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Preparing full name/Game_of_Life.Problems-Preparing_full_name.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/util/Game_of_Life.util.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/util/Game_of_Life.util.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/util/Game_of_Life.util.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Main_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/tmp/test/jar_extract_13847042387951951802_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/tmp/test/jar_extract_18257991387239759802_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/tmp/test/jar_extract_2002013461507729939_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/tmp/test/jar_extract_6020690120867692309_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/tmp/test/jar_extract_838119946382327687_tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game of Life/task/out/test/classes/GameOfLifeTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Army/out/production/classes/Army$Doctor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Army/out/production/classes/Army$General.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Army/out/production/classes/Army$Knight.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Army/out/production/classes/Army$Unit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Army/out/production/classes/Army.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gameoflife/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gameoflife/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gameoflife/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gameoflife/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gameoflife/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gameoflife/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gameoflife/gameoflife.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gameoflife/src/Current.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gameoflife/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gameoflife/src/Next.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gameoflife/src/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Account/Game_of_Life.Problems-Account.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Account/Game_of_Life.Problems-Account.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Account/Game_of_Life.Problems-Account.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Avoid division by zero/Game_of_Life.Problems-Avoid_division_by_zero.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Avoid division by zero/Game_of_Life.Problems-Avoid_division_by_zero.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Avoid division by zero/Game_of_Life.Problems-Avoid_division_by_zero.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Binary search/Game_of_Life.Problems-Binary_search.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Binary search/Game_of_Life.Problems-Binary_search.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Binary search/Game_of_Life.Problems-Binary_search.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Catching some exceptions/Game_of_Life.Problems-Catching_some_exceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Catching some exceptions/Game_of_Life.Problems-Catching_some_exceptions.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Catching some exceptions/Game_of_Life.Problems-Catching_some_exceptions.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Complex/Game_of_Life.Problems-Complex.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Complex/Game_of_Life.Problems-Complex.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Complex/Game_of_Life.Problems-Complex.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Converting and multiplying/Game_of_Life.Problems-Converting_and_multiplying.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Converting and multiplying/Game_of_Life.Problems-Converting_and_multiplying.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Converting and multiplying/Game_of_Life.Problems-Converting_and_multiplying.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Getting input/Game_of_Life.Problems-Getting_input.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Getting input/Game_of_Life.Problems-Getting_input.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Getting input/Game_of_Life.Problems-Getting_input.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Getting the fullname/Game_of_Life.Problems-Getting_the_fullname.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Getting the fullname/Game_of_Life.Problems-Getting_the_fullname.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Getting the fullname/Game_of_Life.Problems-Getting_the_fullname.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Sorting arrays/Game_of_Life.Problems-Sorting_arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Sorting arrays/Game_of_Life.Problems-Sorting_arrays.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Sorting arrays/Game_of_Life.Problems-Sorting_arrays.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/String to double conversion/Game_of_Life.Problems-String_to_double_conversion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/String to double conversion/Game_of_Life.Problems-String_to_double_conversion.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/String to double conversion/Game_of_Life.Problems-String_to_double_conversion.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/classes/kotlin/test/META-INF/Game_of_Life-task.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/classes/kotlin/test/common/CheckResultUtilKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/classes/kotlin/test/common/ClueWithChecker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/classes/kotlin/test/common/ClueWithCheckerKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/classes/kotlin/test/common/ClueWithDynamicFeedbackChecker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/classes/kotlin/test/common/ClueWithPredefinedFeedbackChecker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/classes/kotlin/test/common/GameOfLifeStage3Test$Companion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/classes/kotlin/test/common/GameOfLifeStage3Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/classes/kotlin/test/common/GameOfLifeStage3TestKt$stage3Tests$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/classes/kotlin/test/common/GameOfLifeStage3TestKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/classes/kotlin/test/common/Generation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/build-history.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/constants.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/constants.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/constants.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/constants.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/constants.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/constants.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/constants.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/package-parts.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/package-parts.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/package-parts.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/package-parts.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/package-parts.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/proto.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/subtypes.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/subtypes.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/subtypes.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/subtypes.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/subtypes.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/supertypes.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/supertypes.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/supertypes.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/counters.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/caches-jvm/lookups/lookups.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/kotlin/compileTestKotlin/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/tmp/test/jar_extract_10426436893516279980_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/tmp/test/jar_extract_10438146879917299918_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/tmp/test/jar_extract_1063642332491449858_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/tmp/test/jar_extract_10827524551614743248_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/tmp/test/jar_extract_10857939471569306968_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/tmp/test/jar_extract_11617490582038742183_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/tmp/test/jar_extract_12618530309426153255_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/tmp/test/jar_extract_12634902759558774038_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/tmp/test/jar_extract_12918036471204866888_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/tmp/test/jar_extract_13285354368737047655_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/tmp/test/jar_extract_13310568624923321917_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/tmp/test/jar_extract_13757476176875713159_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/tmp/test/jar_extract_1447608034911055001_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/tmp/test/jar_extract_1550083570030156164_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/tmp/test/jar_extract_15796500171027682039_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/tmp/test/jar_extract_1596477772112898120_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/tmp/test/jar_extract_16054361234101921737_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/tmp/test/jar_extract_16184682980243560855_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/tmp/test/jar_extract_16613997468554250319_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/tmp/test/jar_extract_3460187448958976926_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/tmp/test/jar_extract_393524772865412121_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/tmp/test/jar_extract_4447185280993856918_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/tmp/test/jar_extract_5143032343180991191_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/tmp/test/jar_extract_6956299330498772703_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/tmp/test/jar_extract_7134040743737185604_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/tmp/test/jar_extract_841483172421786402_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/build/tmp/test/jar_extract_8595759911916620618_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/test/common/CheckResultUtil.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/test/common/ClueWithChecker.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game of Life/task/test/common/GameOfLifeStage3Test.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Account/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Account/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Account/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Account/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Avoid division by zero/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Avoid division by zero/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Avoid division by zero/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Avoid division by zero/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Binary search/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Binary search/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Binary search/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Binary search/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Catching some exceptions/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Catching some exceptions/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Catching some exceptions/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Catching some exceptions/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Complex/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Complex/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Complex/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Complex/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Converting and multiplying/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Converting and multiplying/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Converting and multiplying/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Converting and multiplying/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Getting input/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Getting input/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Getting input/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Getting input/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Getting the fullname/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Getting the fullname/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Getting the fullname/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Getting the fullname/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Sorting arrays/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Sorting arrays/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Sorting arrays/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Sorting arrays/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/String to double conversion/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/String to double conversion/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/String to double conversion/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/String to double conversion/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/kotlin/sessions/kotlin-compiler-9321702315443537187.salive" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Automation in Kotlin/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Automation in Kotlin/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Automation in Kotlin/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Automation in Kotlin/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Automation in Kotlin/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Automation in Kotlin/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Automation in Kotlin/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Automation in Kotlin/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Automation in Kotlin/Test Automation in Kotlin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Automation in Kotlin/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Automation in Kotlin/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Automation in Kotlin/src/main/kotlin/com/cafekotlin/Hello.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testKotlin/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testKotlin/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testKotlin/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testKotlin/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testKotlin/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testKotlin/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testKotlin/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testKotlin/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testKotlin/testKotlin.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileContent/fileContent.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
@@ -112,46 +281,42 @@
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Game of Life/task/Game_of_Life-task.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Game of Life/task/Game_of_Life-task_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Game of Life/task/Game_of_Life-task_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Army/Problems-Army.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Army/Problems-Army_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Army/Problems-Army_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Find the seed/Problems-Find_the_seed.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Find the seed/Problems-Find_the_seed_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Find the seed/Problems-Find_the_seed_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Preparing full name/Problems-Preparing_full_name.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Preparing full name/Problems-Preparing_full_name_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Preparing full name/Problems-Preparing_full_name_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/util/util.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game of Life/Gamify it/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Game of Life/Gamify it/task-remote-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Game of Life/Generations/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Game of Life/Generations/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game of Life/Generations/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Game of Life/Generations/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game of Life/Let there be light/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Game of Life/Let there be light/task-remote-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Game of Life/Life goes by/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Game of Life/Life goes by/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game of Life/Life goes by/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Game of Life/Life goes by/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game of Life/Looking good!/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Game of Life/Looking good!/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game of Life/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Game of Life/lesson-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Game of Life/task/build/classes/java/main/life/CurrentGen.class" beforeDir="false" afterPath="$PROJECT_DIR$/Game of Life/task/build/classes/java/main/life/CurrentGen.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Game of Life/task/build/classes/java/main/life/FutureGen.class" beforeDir="false" afterPath="$PROJECT_DIR$/Game of Life/task/build/classes/java/main/life/FutureGen.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Game of Life/task/build/classes/java/main/life/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Game of Life/task/build/classes/java/main/life/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Game of Life/task/build/reports/tests/test/classes/GameOfLifeTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/Game of Life/task/build/reports/tests/test/classes/GameOfLifeTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Game of Life/task/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Game of Life/task/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Game of Life/task/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/Game of Life/task/build/reports/tests/test/packages/default-package.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Game of Life/task/build/test-results/test/TEST-GameOfLifeTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Game of Life/task/build/test-results/test/TEST-GameOfLifeTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game of Life/task/build/classes/java/test/GameOfLifeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Game of Life/task/build/classes/java/test/GameOfLifeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game of Life/task/build/reports/tests/test/classes/GameOfLifeTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game of Life/task/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game of Life/task/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game of Life/task/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game of Life/task/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game of Life/task/build/reports/tests/test/packages/default-package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game of Life/task/build/test-results/test/TEST-GameOfLifeTest.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Game of Life/task/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Game of Life/task/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Game of Life/task/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/Game of Life/task/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Game of Life/task/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Game of Life/task/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game of Life/task/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game of Life/task/build/test-results/test/binary/results.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Game of Life/task/out/production/classes/life/CurrentGen.class" beforeDir="false" afterPath="$PROJECT_DIR$/Game of Life/task/out/production/classes/life/CurrentGen.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Game of Life/task/out/production/classes/life/FutureGen.class" beforeDir="false" afterPath="$PROJECT_DIR$/Game of Life/task/out/production/classes/life/FutureGen.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Game of Life/task/out/production/classes/life/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Game of Life/task/out/production/classes/life/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Game of Life/task/src/life/CurrentGen.java" beforeDir="false" afterPath="$PROJECT_DIR$/Game of Life/task/src/life/CurrentGen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Game of Life/task/src/life/FutureGen.java" beforeDir="false" afterPath="$PROJECT_DIR$/Game of Life/task/src/life/FutureGen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Game of Life/task/src/life/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Game of Life/task/src/life/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Find the seed/out/production/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Find the seed/out/production/classes/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Preparing full name/out/production/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Preparing full name/out/production/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game of Life/task/test/GameOfLifeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Game of Life/task/test/GameOfLifeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,7 +339,13 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="WhyItIsNotWorking!" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -192,9 +363,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.inlinked.gradle.project.popup" value="false" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunManager" selected="Application.Main ">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -237,19 +410,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="WhyItIsNotWorking!" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -257,6 +418,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="645" y="206" key="#com.intellij.ide.util.MemberChooser" timestamp="1597666446002">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="645" y="206" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1597666446002" />
     <state x="520" y="241" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1596186637974">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
@@ -265,46 +430,58 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="726" y="258" width="647" height="494" key="#xdebugger.XInspectDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1595573677417" />
-    <state width="1637" height="377" key="GridCell.Tab.0.bottom" timestamp="1596713342553">
+    <state x="74" y="69" width="1496" height="826" key="DiffContextDialog" timestamp="1598014130993">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="377" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1596713342553" />
-    <state width="1637" height="377" key="GridCell.Tab.0.center" timestamp="1596713342553">
+    <state x="74" y="69" width="1496" height="826" key="DiffContextDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1598014130993" />
+    <state width="1637" height="372" key="GridCell.Tab.0.bottom" timestamp="1598014303840">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="377" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1596713342553" />
-    <state width="1637" height="377" key="GridCell.Tab.0.left" timestamp="1596713342553">
+    <state width="1637" height="372" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1598014303840" />
+    <state width="1637" height="372" key="GridCell.Tab.0.center" timestamp="1598014303840">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="377" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1596713342553" />
-    <state width="1637" height="377" key="GridCell.Tab.0.right" timestamp="1596713342553">
+    <state width="1637" height="372" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1598014303840" />
+    <state width="1637" height="372" key="GridCell.Tab.0.left" timestamp="1598014303840">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="377" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1596713342553" />
-    <state width="1637" height="305" key="GridCell.Tab.1.bottom" timestamp="1596713233136">
+    <state width="1637" height="372" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1598014303840" />
+    <state width="1637" height="372" key="GridCell.Tab.0.right" timestamp="1598014303840">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="305" key="GridCell.Tab.1.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1596713233136" />
-    <state width="1637" height="305" key="GridCell.Tab.1.center" timestamp="1596713233136">
+    <state width="1637" height="372" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1598014303840" />
+    <state width="1637" height="384" key="GridCell.Tab.1.bottom" timestamp="1598014303838">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="305" key="GridCell.Tab.1.center/0.0.1680.1010@0.0.1680.1010" timestamp="1596713233136" />
-    <state width="1637" height="305" key="GridCell.Tab.1.left" timestamp="1596713233136">
+    <state width="1637" height="384" key="GridCell.Tab.1.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1598014303838" />
+    <state width="1637" height="384" key="GridCell.Tab.1.center" timestamp="1598014303838">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="305" key="GridCell.Tab.1.left/0.0.1680.1010@0.0.1680.1010" timestamp="1596713233136" />
-    <state width="1637" height="305" key="GridCell.Tab.1.right" timestamp="1596713233136">
+    <state width="1637" height="384" key="GridCell.Tab.1.center/0.0.1680.1010@0.0.1680.1010" timestamp="1598014303838" />
+    <state width="1637" height="384" key="GridCell.Tab.1.left" timestamp="1598014303838">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="305" key="GridCell.Tab.1.right/0.0.1680.1010@0.0.1680.1010" timestamp="1596713233136" />
+    <state width="1637" height="384" key="GridCell.Tab.1.left/0.0.1680.1010@0.0.1680.1010" timestamp="1598014303838" />
+    <state width="1637" height="384" key="GridCell.Tab.1.right" timestamp="1598014303838">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="384" key="GridCell.Tab.1.right/0.0.1680.1010@0.0.1680.1010" timestamp="1598014303838" />
+    <state x="414" y="207" key="RollbackChangesDialog" timestamp="1596780108702">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="414" y="207" key="RollbackChangesDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1596780108702" />
+    <state x="341" y="150" key="SettingsEditor" timestamp="1596780011194">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="341" y="150" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1596780011194" />
     <state x="366" y="241" width="948" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1596190895588">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="366" y="241" width="948" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1680.1010@0.0.1680.1010" timestamp="1596190895588" />
-    <state x="222" y="125" key="new project wizard" timestamp="1596619143777">
+    <state x="222" y="125" key="new project wizard" timestamp="1596717123126">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="222" y="125" key="new project wizard/0.0.1680.1010@0.0.1680.1010" timestamp="1596619143777" />
+    <state x="222" y="125" key="new project wizard/0.0.1680.1010@0.0.1680.1010" timestamp="1596717123126" />
     <state x="546" y="252" key="refactoring.ChangeSignatureDialog" timestamp="1596051790765">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
@@ -323,247 +500,222 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Game of Life/task/src/life/FutureGen.java</url>
-          <line>20</line>
+          <line>19</line>
           <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Game of Life/task/src/life/FutureGen.java</url>
-          <line>21</line>
+          <line>20</line>
           <option name="timeStamp" value="38" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Game of Life/task/src/life/FutureGen.java</url>
-          <line>22</line>
+          <line>21</line>
           <option name="timeStamp" value="39" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Game of Life/task/src/life/FutureGen.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="40" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Game of Life/task/src/life/FutureGen.java</url>
-          <line>28</line>
+          <line>25</line>
           <option name="timeStamp" value="42" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Game of Life/task/src/life/FutureGen.java</url>
-          <line>30</line>
+          <line>28</line>
           <option name="timeStamp" value="66" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Game of Life/task/src/life/CurrentGen.java</url>
-          <line>18</line>
+          <line>21</line>
           <option name="timeStamp" value="99" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Game of Life/task/src/life/CurrentGen.java</url>
-          <line>28</line>
+          <line>32</line>
           <option name="timeStamp" value="103" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Game of Life/task/src/life/CurrentGen.java</url>
-          <line>30</line>
+          <line>34</line>
           <option name="timeStamp" value="105" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
-          <line>42</line>
-          <option name="timeStamp" value="125" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
-          <line>43</line>
-          <option name="timeStamp" value="126" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
-          <line>51</line>
+          <line>55</line>
           <option name="timeStamp" value="127" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
-          <line>52</line>
+          <line>56</line>
           <option name="timeStamp" value="128" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
-          <line>53</line>
+          <line>57</line>
           <option name="timeStamp" value="129" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
-          <line>54</line>
+          <line>58</line>
           <option name="timeStamp" value="130" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
-          <line>55</line>
+          <line>59</line>
           <option name="timeStamp" value="131" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
-          <line>56</line>
+          <line>60</line>
           <option name="timeStamp" value="132" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
-          <line>59</line>
-          <option name="timeStamp" value="133" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
-          <line>57</line>
-          <option name="timeStamp" value="134" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="137" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="139" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
-          <line>33</line>
-          <option name="timeStamp" value="140" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="141" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="142" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
-          <line>35</line>
+          <line>45</line>
           <option name="timeStamp" value="143" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
-          <line>36</line>
-          <option name="timeStamp" value="144" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
-          <line>40</line>
-          <option name="timeStamp" value="145" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
-          <line>39</line>
-          <option name="timeStamp" value="146" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
-          <line>37</line>
-          <option name="timeStamp" value="147" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
-          <line>41</line>
+          <line>49</line>
           <option name="timeStamp" value="148" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
-          <line>45</line>
-          <option name="timeStamp" value="149" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
-          <line>46</line>
-          <option name="timeStamp" value="150" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
-          <line>48</line>
-          <option name="timeStamp" value="151" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
-          <line>47</line>
-          <option name="timeStamp" value="152" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
-          <line>61</line>
-          <option name="timeStamp" value="153" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Game of Life/task/src/life/FutureGen.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="154" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Game of Life/task/src/life/FutureGen.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="168" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Game of Life/task/src/life/FutureGen.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="169" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Game of Life/task/src/life/FutureGen.java</url>
           <line>18</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Game of Life/task/src/life/FutureGen.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Game of Life/task/src/life/FutureGen.java</url>
+          <line>17</line>
           <option name="timeStamp" value="170" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Game of Life/task/src/life/FutureGen.java</url>
-          <line>34</line>
+          <line>32</line>
           <option name="timeStamp" value="171" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Game of Life/task/src/life/FutureGen.java</url>
-          <line>35</line>
+          <line>33</line>
           <option name="timeStamp" value="172" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Game of Life/task/src/life/FutureGen.java</url>
-          <line>38</line>
-          <option name="timeStamp" value="174" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Game of Life/task/src/life/FutureGen.java</url>
-          <line>39</line>
+          <line>40</line>
           <option name="timeStamp" value="175" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Game of Life/task/src/life/FutureGen.java</url>
-          <line>41</line>
-          <option name="timeStamp" value="176" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Game of Life/task/src/life/FutureGen.java</url>
-          <line>42</line>
-          <option name="timeStamp" value="177" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Game of Life/task/src/life/FutureGen.java</url>
-          <line>48</line>
+          <line>45</line>
           <option name="timeStamp" value="178" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Game of Life/task/src/life/FutureGen.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="179" />
+          <line>14</line>
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="182" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Game of Life/task/src/life/FutureGen.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="180" />
+          <line>31</line>
+          <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="185" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="187" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="195" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="197" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="198" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="203" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="206" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Game of Life/task/src/life/CurrentGen.java</url>
-          <line>10</line>
+          <line>12</line>
           <properties class="life.CurrentGen" method="currentMatrixGenerator">
             <option name="EMULATED" value="true" />
           </properties>
@@ -571,7 +723,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
-          <line>28</line>
+          <line>29</line>
           <properties class="life.Main" method="lifeCycle">
             <option name="EMULATED" value="true" />
           </properties>
@@ -579,13 +731,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
-          <line>6</line>
+          <line>7</line>
           <properties field="random" class="life.Main" />
           <option name="timeStamp" value="62" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/Game of Life/task/src/life/Main.java</url>
-          <line>12</line>
+          <line>13</line>
           <properties field="counter" class="life.Main" />
           <option name="timeStamp" value="63" />
         </line-breakpoint>

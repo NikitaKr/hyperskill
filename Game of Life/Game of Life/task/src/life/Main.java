@@ -1,9 +1,10 @@
 package life;
 
+
 import java.util.Random;
 import java.util.Scanner;
 
-public class Main {
+public class Main extends Thread {
 
     protected static int n;
     protected static int s;
@@ -11,43 +12,46 @@ public class Main {
     protected static int counter = 1;
     protected static Random random;
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
         begin();
         lifeCycle(m);
-
     }
+
 
     public static void begin() {
 
         Scanner scanner = new Scanner(System.in);
         n = scanner.nextInt();
-        s = scanner.nextInt();
-        m = scanner.nextInt();
-        random = new Random(s);
+        //s = scanner.nextInt();
+        m = 10;
+        random = new Random();
     }
 
-    public static void lifeCycle(int m) {
+    public static void lifeCycle(int m) throws InterruptedException {
 
-        if (m == 0) {
-            CurrentGen currentGen = new CurrentGen();
+        CurrentGen currentGen = new CurrentGen();
+        FutureGen futureGen = new FutureGen();
+
+
+        if (counter == 1) {
+
             currentGen.currentMatrixGenerator(n);
+            System.out.println("Generation #" + counter);
+            System.out.println("Alive: " + currentGen.currentAlive);
             currentGen.printCurrentGen(n);
-        }
-        if (m == 1) {
-            CurrentGen currentGen = new CurrentGen();
-            currentGen.currentMatrixGenerator(n);
+            counter++;
+            Thread.sleep(1000);
 
-            FutureGen futureGen = new FutureGen();
+        }
+        if (counter == 2) {
             futureGen.futureMatrixGenerator(n);
+            System.out.println("Generation #" + counter);
+            System.out.println("Alive: " + futureGen.aliveNumber);
             futureGen.printFutureMatrix(n);
+            counter++;
+            Thread.sleep(1000);
         }
-        if (m > 1) {
-
-            CurrentGen currentGen = new CurrentGen();
-            currentGen.currentMatrixGenerator(n);
-            FutureGen futureGen = new FutureGen();
-            futureGen.futureMatrixGenerator(n);
-
+        if (counter > 2) {
 
             for (int e = 2; e < m + 1; e++) {
                 for (int i = 0; i < n; i++) {
@@ -56,18 +60,16 @@ public class Main {
                     }
                 }
                 futureGen.futureMatrixGenerator(n);
+                System.out.println("Generation #" + counter);
+                System.out.println("Alive: " + futureGen.aliveNumber);
+                futureGen.printFutureMatrix(n);
 
                 counter++;
+                Thread.sleep(1000);
             }
-            futureGen.printFutureMatrix(n);
-
 
         }
-
-
     }
-
-
 }
 
 

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="" />
+    <option name="COMMIT_PATTERN" value="{message}" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="ENABLE_SUITABLE_CONFIGURATION_CACHING" value="true" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a6483d6f-53e3-4185-a163-a422e6c34f3e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Game of Life/Game of Life/task/test/common/CheckResultUtil.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game of Life/Game of Life/task/test/common/ClueWithChecker.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game of Life/Game of Life/task/test/common/GameOfLifeStage3Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game of Life/.gradle/5.3.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Game of Life/.gradle/5.3.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game of Life/.gradle/5.3.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Game of Life/.gradle/5.3.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game of Life/.gradle/5.3.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Game of Life/.gradle/5.3.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game of Life/.gradle/5.3.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Game of Life/.gradle/5.3.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game of Life/.gradle/5.3.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Game of Life/.gradle/5.3.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game of Life/.gradle/5.3.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Game of Life/.gradle/5.3.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game of Life/.gradle/5.3.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Game of Life/.gradle/5.3.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game of Life/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Game of Life/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game of Life/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Game of Life/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game of Life/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Game of Life/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game of Life/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Game of Life/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game of Life/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Game of Life/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game of Life/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Game of Life/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game of Life/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/../Game of Life/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game of Life/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/../Game of Life/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game of Life/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Game of Life/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game of Life/Game of Life/Generations/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Game of Life/Game of Life/Generations/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game of Life/Game of Life/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Game of Life/Game of Life/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game of Life/Game of Life/task/build/classes/java/main/life/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Game of Life/Game of Life/task/build/classes/java/main/life/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game of Life/Game of Life/task/build/reports/tests/test/classes/GameOfLifeTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Game of Life/Game of Life/task/build/reports/tests/test/classes/GameOfLifeTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game of Life/Game of Life/task/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Game of Life/Game of Life/task/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game of Life/Game of Life/task/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Game of Life/Game of Life/task/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game of Life/Game of Life/task/build/test-results/test/TEST-GameOfLifeTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Game of Life/Game of Life/task/build/test-results/test/TEST-GameOfLifeTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game of Life/Game of Life/task/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Game of Life/Game of Life/task/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Game of Life/Game of Life/task/test/GameOfLifeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Game of Life/Game of Life/task/test/GameOfLifeTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1fj2LJ9th4Dc0US2dxAsk57dX5X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\STARSURFER\Documents\GitHub\hyperskill\Test Automation in Kotlin\src\main" />
+      <recent name="C:\Users\STARSURFER\Documents\GitHub\hyperskill\Test Automation in Kotlin\src\main\kotlin\com\cafekotlin" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6483d6f-53e3-4185-a163-a422e6c34f3e" name="Default Changelist" comment="" />
+      <created>1596717125162</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596717125162</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="739" y="429" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1596717452266">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="739" y="429" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1596717452266" />
+    <state width="796" height="272" key="GridCell.Tab.0.bottom" timestamp="1596721412643">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="796" height="272" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1596721412643" />
+    <state width="796" height="272" key="GridCell.Tab.0.center" timestamp="1596721412643">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="796" height="272" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1596721412643" />
+    <state width="796" height="272" key="GridCell.Tab.0.left" timestamp="1596721412643">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="796" height="272" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1596721412643" />
+    <state width="796" height="272" key="GridCell.Tab.0.right" timestamp="1596721412643">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="796" height="272" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1596721412643" />
+  </component>
+</project>
