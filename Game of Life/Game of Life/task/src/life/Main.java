@@ -41,8 +41,8 @@ public class Main extends Thread {
             currentGen.printCurrentGen(n);
             counter++;
             Thread.sleep(1000);
-
         }
+
         if (counter == 2) {
             futureGen.futureMatrixGenerator(n);
             System.out.println("Generation #" + counter);
@@ -51,14 +51,16 @@ public class Main extends Thread {
             counter++;
             Thread.sleep(1000);
         }
-        if (counter > 2) {
 
+        if (counter > 2) {
             for (int e = 2; e < m + 1; e++) {
+
                 for (int i = 0; i < n; i++) {
                     for (int j = 0; j < n; j++) {
                         CurrentGen.matrixCurrentGen[i][j] = FutureGen.matrixFutureGen[i][j];
                     }
                 }
+
                 futureGen.futureMatrixGenerator(n);
                 System.out.println("Generation #" + counter);
                 System.out.println("Alive: " + futureGen.aliveNumber);

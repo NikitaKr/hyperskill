@@ -1,0 +1,1297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GameOfLifeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-08-21T13:04:01" hostname="DESKTOP-75SNRE5" time="133.031">
+  <properties/>
+  <testcase name="start" classname="GameOfLifeTest" time="133.031"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+>5
+Generation #1
+Alive: 14
+OOOO 
+   O 
+OOOOO
+  O O
+O   O
+Generation #2
+Alive: 7
+OOOO 
+     
+OO   
+  O  
+     
+Generation #3
+Alive: 6
+ OO  
+    O
+ O   
+ O   
+   O 
+Generation #4
+Alive: 8
+  OO 
+OOO  
+O    
+  O  
+ O   
+Generation #5
+Alive: 11
+O  O 
+O OOO
+O O  
+ O   
+ O O 
+Generation #6
+Alive: 10
+O    
+O O  
+O O  
+OO   
+OO  O
+Generation #7
+Alive: 7
+     
+O   O
+O O O
+  O  
+    O
+Generation #8
+Alive: 11
+O   O
+OO OO
+O   O
+OO  O
+     
+Generation #9
+Alive: 8
+ O O 
+ O O 
+  O  
+ O  O
+ O   
+Generation #10
+Alive: 12
+OO   
+ O O 
+OOOO 
+OOO  
+ O   
+Generation #11
+Alive: 6
+OO   
+   O 
+   O 
+   OO
+     
+?[1;31m
+Start test 2?[0m
+>6
+Generation #1
+Alive: 19
+ O  O 
+OO  O 
+OOOO O
+O  O  
+ O OOO
+  OO O
+Generation #2
+Alive: 8
+ O  O 
+    O 
+   O  
+      
+ O   O
+ O   O
+Generation #3
+Alive: 9
+O   OO
+   OO 
+      
+      
+      
+ OO OO
+Generation #4
+Alive: 8
+OOO   
+   OO 
+      
+      
+      
+ O OO 
+Generation #5
+Alive: 9
+OO   O
+ OOO  
+      
+      
+      
+OO O  
+Generation #6
+Alive: 9
+   OOO
+ OO   
+  O   
+      
+      
+ OO  O
+Generation #7
+Alive: 12
+   OOO
+ OO O 
+ OO   
+      
+      
+O OO O
+Generation #8
+Alive: 11
+      
+OO  OO
+ OOO  
+      
+      
+O OO O
+Generation #9
+Alive: 13
+  OO  
+OO OOO
+ OOOOO
+  O   
+      
+      
+Generation #10
+Alive: 8
+OOOO O
+      
+      
+ OO O 
+      
+      
+Generation #11
+Alive: 9
+OOO   
+OOO   
+      
+      
+      
+OOO   
+?[1;31m
+Start test 3?[0m
+>7
+Generation #1
+Alive: 21
+  OO O 
+   O   
+    OOO
+OOO OO 
+OO OO  
+  O  OO
+ O O   
+Generation #2
+Alive: 15
+   O   
+  OO  O
+OOO   O
+  O    
+       
+     OO
+ O O OO
+Generation #3
+Alive: 18
+O  O OO
+   O  O
+O     O
+O O    
+       
+O   OOO
+O O  OO
+Generation #4
+Alive: 17
+ OOO   
+    O  
+OO    O
+OO    O
+OO   O 
+OO  O  
+   O   
+Generation #5
+Alive: 19
+  OOO  
+   O   
+ O   OO
+  O  O 
+  O  O 
+OOO O O
+O  OO  
+Generation #6
+Alive: 21
+  O    
+   O O 
+  O OOO
+ OO OO 
+O O OO 
+O O O O
+O     O
+Generation #7
+Alive: 17
+      O
+  OO OO
+ OO   O
+O O    
+O O    
+    O  
+O  O OO
+Generation #8
+Alive: 23
+  OO   
+ OOO OO
+     OO
+O OO  O
+   O   
+OO OOO 
+O   OOO
+Generation #9
+Alive: 17
+       
+OO O OO
+       
+O OOOOO
+     O 
+OOOO   
+O      
+Generation #10
+Alive: 14
+ O     
+O     O
+       
+   OOOO
+     O 
+OOO   O
+O O    
+Generation #11
+Alive: 16
+ O    O
+O      
+O   O  
+    OOO
+ OOO   
+O O   O
+  O   O
+?[1;31m
+Start test 4?[0m
+>8
+Generation #1
+Alive: 30
+ O  O   
+   O O  
+OO O    
+ O OOOOO
+O  O OOO
+    O O 
+OO   OOO
+OO O  OO
+Generation #2
+Alive: 24
+ O OOOOO
+OO O    
+OO O   O
+ O O    
+O OO    
+ O  O   
+ OO O   
+    O   
+Generation #3
+Alive: 25
+ O O OOO
+   O O  
+   OO  O
+   OO  O
+O  OO   
+O   O   
+ OO OO  
+OO    O 
+Generation #4
+Alive: 25
+ O   O O
+O  O O O
+  O  OO 
+O O  O O
+O    O O
+O O     
+  OOOO O
+   O    
+Generation #5
+Alive: 22
+  O    O
+OOO  O O
+  OO O  
+O   OO  
+        
+O O  O  
+ OO O   
+O  O O  
+Generation #6
+Alive: 26
+  OOO  O
+O   O  O
+  OO O O
+   OOO  
+ O  OO  
+  OO    
+O O OO  
+O  OO   
+Generation #7
+Alive: 18
+ OO  O O
+OO   O O
+O O  O O
+        
+     O  
+  O     
+  O  O  
+O      O
+Generation #8
+Alive: 9
+  O     
+    OO  
+       O
+      O 
+        
+        
+ O      
+O O    O
+Generation #9
+Alive: 8
+ O O    
+        
+     OO 
+        
+        
+        
+OO      
+O O     
+Generation #10
+Alive: 6
+ OO     
+        
+        
+        
+        
+        
+OO      
+O O     
+Generation #11
+Alive: 6
+ OO     
+        
+        
+        
+        
+        
+OO      
+O O     
+?[1;31m
+Start test 5?[0m
+>9
+Generation #1
+Alive: 45
+OOO     O
+ O O O   
+ OOOO O O
+OOO O OOO
+ OO O  OO
+O   O   O
+O OOOO OO
+ O O OO  
+O  OO OOO
+Generation #2
+Alive: 19
+     OO  
+     O OO
+      O O
+    O O  
+  O O O  
+      O  
+  O    O 
+ O       
+   OO O  
+Generation #3
+Alive: 17
+         
+     O  O
+      O O
+   O  O  
+   O  OO 
+   O OOO 
+         
+  OO     
+    O O  
+Generation #4
+Alive: 17
+     O   
+       O 
+     OO  
+     OO  
+  OO     
+    OO O 
+  OOO O  
+   O     
+   O     
+Generation #5
+Alive: 12
+         
+     O   
+     O O 
+    OOO  
+   O     
+     OO  
+  O   O  
+         
+    O    
+Generation #6
+Alive: 8
+         
+      O  
+         
+    OOO  
+         
+     OO  
+     OO  
+         
+         
+Generation #7
+Alive: 7
+         
+         
+      O  
+     O   
+    O    
+     OO  
+     OO  
+         
+         
+Generation #8
+Alive: 7
+         
+         
+         
+     O   
+    O O  
+    O O  
+     OO  
+         
+         
+Generation #9
+Alive: 8
+         
+         
+         
+     O   
+    O O  
+    O OO 
+     OO  
+         
+         
+Generation #10
+Alive: 9
+         
+         
+         
+     O   
+    O OO 
+    O  O 
+     OOO 
+         
+         
+Generation #11
+Alive: 11
+         
+         
+         
+     OO  
+    O OO 
+    O   O
+     OOO 
+      O  
+         
+?[1;31m
+Start test 6?[0m
+>10
+Generation #1
+Alive: 48
+ O OOO    
+OOO OO    
+O OOO     
+O OOO   O 
+ OOO  OO O
+O  OO  OO 
+   OOOO OO
+O OOO O O 
+O    O   O
+ O  O   OO
+Generation #2
+Alive: 27
+         O
+O         
+O         
+O    O OO 
+     OO   
+OO        
+OO    O   
+OOO   O O 
+  O  O O  
+ OOO    OO
+Generation #3
+Alive: 35
+ OO     OO
+O        O
+OO        
+     O O O
+OO   OOO O
+OO   OO   
+       O  
+O O  OO  O
+      OO  
+OOOO    OO
+Generation #4
+Alive: 25
+   O      
+  O     O 
+ O      O 
+     O O O
+ O  O  O O
+ O   O  OO
+       O O
+     O  O 
+   O OOO  
+   O      
+Generation #5
+Alive: 29
+  OO      
+  O       
+       OOO
+      OO O
+    OO O O
+      OO O
+O     OO O
+    OO  O 
+     OOO  
+  OO  O   
+Generation #6
+Alive: 27
+ O        
+  OO    O 
+      OO O
+O    O   O
+O    O   O
+         O
+O        O
+    O   OO
+   O   O  
+  OOOOOO  
+Generation #7
+Alive: 26
+ O   OOO  
+  O    OO 
+O     OO O
+     O    
+        O 
+        O 
+O         
+O       OO
+  O    O  
+  OOOOOO  
+Generation #8
+Alive: 30
+ O        
+OO   O   O
+      OO O
+      OOOO
+          
+         O
+O       O 
+OO      OO
+ OO OO O O
+ OOOO   O 
+Generation #9
+Alive: 23
+   OO    O
+ O    O OO
+     O    
+      O  O
+       O O
+         O
+ O      O 
+  O    O  
+    OO O  
+    OO  O 
+Generation #10
+Alive: 33
+O  OO  O O
+O   OO  OO
+O    OOOOO
+      O O 
+O        O
+O        O
+        O 
+      OOO 
+   OOO OO 
+      O O 
+Generation #11
+Alive: 24
+O  OO OO  
+ O O      
+O   O     
+     OO   
+O       O 
+O       O 
+        O 
+    OOO  O
+    OO   O
+      O   
+?[1;31m
+Start test 7?[0m
+>5
+Generation #1
+Alive: 15
+OOOO 
+ OO  
+ O O 
+OO OO
+OO  O
+Generation #2
+Alive: 4
+   O 
+    O
+   O 
+   O 
+     
+Generation #3
+Alive: 4
+     
+   OO
+   OO
+     
+     
+Generation #4
+Alive: 4
+     
+   OO
+   OO
+     
+     
+Generation #5
+Alive: 4
+     
+   OO
+   OO
+     
+     
+Generation #6
+Alive: 4
+     
+   OO
+   OO
+     
+     
+Generation #7
+Alive: 4
+     
+   OO
+   OO
+     
+     
+Generation #8
+Alive: 4
+     
+   OO
+   OO
+     
+     
+Generation #9
+Alive: 4
+     
+   OO
+   OO
+     
+     
+Generation #10
+Alive: 4
+     
+   OO
+   OO
+     
+     
+Generation #11
+Alive: 4
+     
+   OO
+   OO
+     
+     
+?[1;31m
+Start test 8?[0m
+>6
+Generation #1
+Alive: 16
+  O   
+ OOO  
+OO O O
+ OO O 
+   OOO
+  O  O
+Generation #2
+Alive: 9
+      
+   OO 
+     O
+ O    
+OO   O
+  O  O
+Generation #3
+Alive: 11
+   OO 
+    O 
+    O 
+ O   O
+ OO  O
+ O   O
+Generation #4
+Alive: 18
+   OOO
+    OO
+    OO
+ OO OO
+ OO OO
+ O O O
+Generation #5
+Alive: 6
+  OO  
+O     
+      
+ OO   
+      
+ O    
+Generation #6
+Alive: 6
+ OO   
+      
+ O    
+      
+ OO   
+  O   
+Generation #7
+Alive: 9
+ OO   
+ OO   
+      
+ OO   
+ OO   
+   O  
+Generation #8
+Alive: 9
+ O O  
+ OO   
+      
+ OO   
+ O O  
+   O  
+Generation #9
+Alive: 10
+ O O  
+ OO   
+      
+ OO   
+ O O  
+   OO 
+Generation #10
+Alive: 12
+ O OO 
+ OO   
+      
+ OO   
+ O OO 
+   OO 
+Generation #11
+Alive: 11
+ O  O 
+ OOO  
+      
+ OOO  
+ O  O 
+     O
+?[1;31m
+Start test 9?[0m
+>7
+Generation #1
+Alive: 23
+O    OO
+O OOO  
+ OO O O
+O  O   
+OO  O O
+O   OO 
+O O   O
+Generation #2
+Alive: 16
+  O OO 
+  O O  
+    OOO
+   OO  
+ O OO  
+   OO  
+    O  
+Generation #3
+Alive: 7
+    OO 
+      O
+       
+  O    
+     O 
+  O  O 
+       
+Generation #4
+Alive: 4
+     O 
+     O 
+       
+       
+       
+       
+    OO 
+Generation #5
+Alive: 4
+     OO
+       
+       
+       
+       
+       
+    OO 
+Generation #6
+Alive: 6
+    OOO
+       
+       
+       
+       
+       
+    OOO
+Generation #7
+Alive: 6
+    O O
+     O 
+       
+       
+       
+     O 
+    O O
+Generation #8
+Alive: 6
+    O O
+     O 
+       
+       
+       
+     O 
+    O O
+Generation #9
+Alive: 6
+    O O
+     O 
+       
+       
+       
+     O 
+    O O
+Generation #10
+Alive: 6
+    O O
+     O 
+       
+       
+       
+     O 
+    O O
+Generation #11
+Alive: 6
+    O O
+     O 
+       
+       
+       
+     O 
+    O O
+?[1;31m
+Start test 10?[0m
+>8
+Generation #1
+Alive: 32
+OOOOOOO 
+   O  O 
+O  OO   
+OO    O 
+OO  OO O
+O OOOOO 
+ OOOO   
+   O  O 
+Generation #2
+Alive: 20
+ O    O 
+O     O 
+OOOOOO  
+  OO  O 
+        
+      O 
+ O    OO
+O     OO
+Generation #3
+Alive: 17
+ O   OO 
+O  OO O 
+O   OOO 
+     O  
+        
+      OO
+     O  
+ O   O  
+Generation #4
+Alive: 18
+OOO   OO
+OO O    
+   O  O 
+    OOO 
+      O 
+      O 
+     O  
+    OO  
+Generation #5
+Alive: 27
+  OOOOOO
+   O  O 
+  OO  OO
+    O OO
+      OO
+     OO 
+    OOO 
+OO  OO O
+Generation #6
+Alive: 12
+ OO     
+        
+  OOO   
+O  O    
+        
+    O   
+O       
+OOO     
+Generation #7
+Alive: 12
+O O     
+ O      
+  OOO   
+  OOO   
+        
+        
+O       
+O O     
+Generation #8
+Alive: 11
+O O     
+ O      
+ O  O   
+  O O   
+   O    
+        
+ O      
+O      O
+Generation #9
+Alive: 14
+O      O
+OOO     
+ OOO    
+  O O   
+   O    
+        
+O       
+O      O
+Generation #10
+Alive: 9
+        
+   O   O
+O       
+ O  O   
+   O    
+        
+O      O
+ O      
+Generation #11
+Alive: 3
+        
+        
+O       
+        
+        
+        
+O       
+O       
+?[1;31m
+Start test 11?[0m
+>9
+Generation #1
+Alive: 37
+OO OOOO O
+OO    O  
+   OO   O
+OOO  OO O
+O  O O   
+  OOO    
+ O OO    
+ O OOOO O
+OO O     
+Generation #2
+Alive: 28
+   OOOOOO
+ O    O  
+   OO O O
+ OO  OOOO
+O    OO O
+ O   O   
+OO       
+ O   O   
+         
+Generation #3
+Alive: 27
+    OOOO 
+O O     O
+ O OO   O
+ OOO     
+  O O   O
+ O   OO O
+OOO      
+OO       
+       O 
+Generation #4
+Alive: 26
+     OOO 
+OOO   O O
+    O   O
+ O       
+    OO O 
+   O O OO
+  O     O
+O O     O
+     O OO
+Generation #5
+Alive: 26
+ O   O   
+OO    O O
+  O    OO
+    OO   
+    OO OO
+   O O OO
+ OOO     
+OO       
+O    O   
+Generation #6
+Alive: 30
+ O   OO O
+ OO   O O
+ O   OOOO
+   OOO   
+   O   OO
+O  O O OO
+ O OO   O
+O        
+O        
+Generation #7
+Alive: 33
+ OO  OO O
+ OO     O
+ O O    O
+O OO O   
+O OO O O 
+   O  O  
+ OOOO  O 
+OO      O
+OO      O
+Generation #8
+Alive: 21
+        O
+   O    O
+   OO   O
+O     O  
+     O  O
+     OOOO
+ O OO  OO
+   O   O 
+         
+Generation #9
+Alive: 29
+         
+O  OO  OO
+O  OO  OO
+O   OO OO
+O    O  O
+     O   
+O OOOO   
+  OOO  OO
+         
+Generation #10
+Alive: 28
+        O
+O  OO  O 
+ O       
+ O O O   
+O    O O 
+OO O OO O
+ OO  OO O
+ OO  O  O
+   O     
+Generation #11
+Alive: 25
+   OO   O
+O       O
+OO O     
+OOO O O  
+     O O 
+         
+   O    O
+ O OOOOO 
+O O      
+?[1;31m
+Start test 12?[0m
+>10
+Generation #1
+Alive: 48
+OO O   O  
+O O OOO OO
+O OOO    O
+ O OOO   O
+OO OOO  OO
+      O OO
+O O  O    
+ O  OOO OO
+  O   O O 
+ OO  OO O 
+Generation #2
+Alive: 37
+   O      
+     OOOO 
+      O   
+          
+ O O  OO  
+  OO  OOO 
+OO  O     
+OOOOO O OO
+O OOO   O 
+O  O OO OO
+Generation #3
+Alive: 26
+          
+     OOO  
+     OO   
+      OO  
+   O  O O 
+O  OOOO O 
+    O O   
+       OO 
+      O   
+OO   O OO 
+Generation #4
+Alive: 22
+     O  O 
+     O O  
+          
+          
+   O    OO
+   O  O  O
+   OO O OO
+     OOO  
+      O  O
+      OO  
+Generation #5
+Alive: 20
+     O  O 
+      O   
+          
+          
+        OO
+O OO O    
+   OO   OO
+    O    O
+        O 
+     OOOO 
+Generation #6
+Alive: 22
+     O  O 
+          
+          
+          
+         O
+O OO      
+O O  O  OO
+   OO    O
+     OO OO
+     OO OO
+Generation #7
+Alive: 19
+     OOOOO
+          
+          
+          
+          
+O OO    O 
+O O     O 
+   OO OO  
+O     O   
+    O     
+Generation #8
+Alive: 24
+     OOOO 
+      OOO 
+          
+          
+          
+  OO      
+  O O   O 
+ O O OOO O
+   OO OO  
+        OO
+Generation #9
+Alive: 19
+     O    
+     O  O 
+       O  
+          
+          
+  OO      
+ O  OOOOO 
+          
+O OOO    O
+    O    O
+Generation #10
+Alive: 30
+    OO    
+      O   
+          
+          
+          
+  OOOOOO  
+  OOOOOO  
+OOO   OOOO
+O  OO    O
+O   OO   O
+Generation #11
+Alive: 18
+    O O   
+     O    
+          
+          
+   OOOO   
+  O    O  
+O        O
+          
+  OOO OO  
+O        O
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

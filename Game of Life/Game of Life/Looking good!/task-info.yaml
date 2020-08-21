@@ -229,32 +229,122 @@ files:
         }
     }
   learner_created: false
-- name: src/life/GameOfLife.java
+- name: src/life/CurrentGen.java
   visible: true
   text: |
     package life;
 
-    import javax.swing.*;
+    public class CurrentGen {
 
-    public class GameOfLife extends JFrame {
-        public GameOfLife() {
-            setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-            setSize(300, 300);
-            setVisible(true);
+        static String[][] matrixCurrentGen;
+        int currentAlive = 0;
+
+
+        public CurrentGen() {
+
         }
+
+        public void currentMatrixGenerator(int n) {
+
+            matrixCurrentGen = new String[Main.n][Main.n];
+            currentAlive = 0;
+            for (int i = 0; i < n; i++) {
+                for (int j = 0; j < n; j++) {
+                    if (Main.random.nextBoolean()) {
+                        matrixCurrentGen[i][j] = "O";
+                        currentAlive++;
+                    } else {
+                        matrixCurrentGen[i][j] = " ";
+                    }
+                }
+
+            }
+        }
+
+        public void printCurrentGen(int n) {
+
+            for (int i = 0; i < n; i++) {
+                for (int j = 0; j < n; j++) {
+                    System.out.print(matrixCurrentGen[i][j]);
+                }
+                System.out.println();
+            }
+        }
+
     }
-  learner_created: false
-- name: src/life/ApplicationRunner.java
+  learner_created: true
+- name: src/life/FutureGen.java
   visible: true
   text: |
     package life;
 
-    public class ApplicationRunner {
-        public static void main(String[] args) {
-            new GameOfLife();
+    import static life.CurrentGen.matrixCurrentGen;
+
+    public class FutureGen {
+
+        static String[][] matrixFutureGen;
+        int neighborsCounter = 0;
+        int aliveNumber = 0;
+
+        public FutureGen() {
+        }
+
+        public void futureMatrixGenerator(int n) {
+            matrixFutureGen = new String[Main.n][Main.n];
+            aliveNumber = 0;
+            for (int i = 0; i < n; i++) {
+                for (int j = 0; j < n; j++) {
+                    for (int k = -1; k < 2; k++) {
+                        for (int l = -1; l < 2; l++) {
+                            int rows = (i + k + n) % n;
+                            int cols = (j + l + n) % n;
+                            if (matrixCurrentGen[rows][cols].equals("O")) {
+                                if (cols != j || rows != i) {
+                                    neighborsCounter++;
+                                }
+                            }
+                        }
+                    }
+
+                    //rules
+                    //Birth
+                    if (matrixCurrentGen[i][j].equals(" ") && neighborsCounter == 3) {
+                        matrixFutureGen[i][j] = "O";
+                    }
+                    //Death
+                    if (matrixCurrentGen[i][j].equals("O") && (neighborsCounter == 3 || neighborsCounter == 2)) {
+                        matrixFutureGen[i][j] = "O";
+                    }
+                    if (matrixCurrentGen[i][j] == "O" && (neighborsCounter < 2 || neighborsCounter > 3)) {
+                        matrixFutureGen[i][j] = " ";
+                    }
+                    if (matrixCurrentGen[i][j].equals(" ") && neighborsCounter != 3) {
+                        matrixFutureGen[i][j] = " ";
+                    }
+                    neighborsCounter = 0;
+                }
+            }
+
+            for (int i = 0; i < n; i++) {
+                for (int j = 0; j < n; j++) {
+                    if(matrixFutureGen[i][j] == "O") {
+                        aliveNumber++;
+                    }
+                }
+            }
+        }
+
+        public void printFutureMatrix(int n) {
+
+            for (int i = 0; i < n; i++) {
+                for (int j = 0; j < n; j++) {
+                    System.out.print(matrixFutureGen[i][j]);
+                }
+                System.out.println();
+            }
         }
     }
-  learner_created: false
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/54/stages/298/implement
 status: Unchecked
 record: -1
