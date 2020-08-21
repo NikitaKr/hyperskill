@@ -12,9 +12,19 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Game of Life/task" />
+            <option value="$PROJECT_DIR$/Problems/Account" />
             <option value="$PROJECT_DIR$/Problems/Army" />
+            <option value="$PROJECT_DIR$/Problems/Avoid division by zero" />
+            <option value="$PROJECT_DIR$/Problems/Binary search" />
+            <option value="$PROJECT_DIR$/Problems/Catching some exceptions" />
+            <option value="$PROJECT_DIR$/Problems/Complex" />
+            <option value="$PROJECT_DIR$/Problems/Converting and multiplying" />
             <option value="$PROJECT_DIR$/Problems/Find the seed" />
+            <option value="$PROJECT_DIR$/Problems/Getting input" />
+            <option value="$PROJECT_DIR$/Problems/Getting the fullname" />
             <option value="$PROJECT_DIR$/Problems/Preparing full name" />
+            <option value="$PROJECT_DIR$/Problems/Sorting arrays" />
+            <option value="$PROJECT_DIR$/Problems/String to double conversion" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
